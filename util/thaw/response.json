@@ -1,0 +1,14 @@
+{
+    'ResponseMetadata': {
+        'RequestId': 'h6E_NL0M-Y2eHEK8BCmhp7h2Du8dHJ0uSWA_BzS1Z0HdQj0',
+        'HTTPStatusCode': 202,
+        'HTTPHeaders': {
+            'x-amzn-requestid': 'h6E_NL0M-Y2eHEK8BCmhp7h2Du8dHJ0uSWA_BzS1Z0HdQj0',
+            'location': '/659248683008/vaults/mpcs-cc/jobs/6ZEh8L3u_CUi41yC4uRruR4pa_WjPqAJijcsAJALkg6iojTP04wSCaXHnnuAhlFiqvFu3qkWGpB8Wr6_hw-MCi7i5NHI',
+            'x-amz-job-id': '6ZEh8L3u_CUi41yC4uRruR4pa_WjPqAJijcsAJALkg6iojTP04wSCaXHnnuAhlFiqvFu3qkWGpB8Wr6_hw-MCi7i5NHI',
+            'content-type': 'application/json',
+            'content-length': '2',
+            'date': 'Tue, 24 May 2022 21:07:58 GMT'},
+            'RetryAttempts': 0},
+        'location': '/659248683008/vaults/mpcs-cc/jobs/6ZEh8L3u_CUi41yC4uRruR4pa_WjPqAJijcsAJALkg6iojTP04wSCaXHnnuAhlFiqvFu3qkWGpB8Wr6_hw-MCi7i5NHI',
+        'jobId': '6ZEh8L3u_CUi41yC4uRruR4pa_WjPqAJijcsAJALkg6iojTP04wSCaXHnnuAhlFiqvFu3qkWGpB8Wr6_hw-MCi7i5NHI'}
